@@ -1,0 +1,24 @@
+
+
+java:S11920"NDefine a constant instead of duplicating this literal "list is empty" 4 times.(ÒÎF8Ò‰Ùäí1J$69dfd978-f523-4895-b19b-d2e6b13b1a9f
+€
+java:S4973š"<Strings and Boxed types should be compared using "equals()".(€ÖĞß8ì‰Ùäí1J$226ae576-0a7b-43ba-87d7-232ea0fd37df
+k	java:S1060"+Replace this use of System.out by a logger.(ÒÎF8¬‹Ùäí1J$12529274-e840-4ff9-8555-c74a03753493
+k	java:S1069"+Replace this use of System.out by a logger.(ÒÎF8­‹Ùäí1J$7c7414b6-5aa0-4785-8565-a4100005aeb0
+k	java:S106N"+Replace this use of System.out by a logger.(ÒÎF8®‹Ùäí1J$46992847-0a83-4014-ae60-e1eade3c6e37
+m	java:S106S"+Replace this use of System.out by a logger.(ÑûæÁ8¯‹Ùäí1J$e9ed4165-1b9b-4bd3-87a9-aeb0d503e713
+r	java:S106V"+Replace this use of System.out by a logger.(¤ªÑÉÿÿÿÿÿ8¯‹Ùäí1J$8a8eef58-49e4-4e84-b3f1-eb5d3d9f0902
+k	java:S106Z"+Replace this use of System.out by a logger.(ÒÎF8°‹Ùäí1J$51789dfd-f9ad-42e9-b6d6-c77e6f5933e7
+z
+java:S1117y"7Rename "size" which hides the field declared at line 6.(ŠİıŞ8´‹Ùäí1J$9c4fdc36-1c33-46c0-88be-5746fc4639ea
+n	java:S106½"+Replace this use of System.out by a logger.(î÷³‹8¸‹Ùäí1J$a5f7dee2-f2f3-406a-9e3f-f1dfeddfd91d
+n	java:S106À"+Replace this use of System.out by a logger.(î÷³‹8¹‹Ùäí1J$e96e08af-306b-4ce0-a986-b2ad9975a967
+s	java:S106Á"+Replace this use of System.out by a logger.(‘ıÛ™şÿÿÿÿ8º‹Ùäí1J$7200d77c-e452-434f-9d5e-83729927e327
+	java:S125Â"<This block of commented-out lines of code should be removed.(øÆ©Û8¼‹Ùäí1J$2468c040-880f-4291-9674-1d87a0a8f6f8
+s	java:S106Ä"+Replace this use of System.out by a logger.(şú±Ÿûÿÿÿÿ8¼‹Ùäí1J$60c857d5-bd36-43e9-ad42-31bfb340676e
+„	java:S125Ç"<This block of commented-out lines of code should be removed.(ÛÏ…úÿÿÿÿ8½‹Ùäí1J$131911de-6133-4cbd-8f06-4e8aa6319bd0
+n	java:S106É"+Replace this use of System.out by a logger.(î÷³‹8½‹Ùäí1J$7b010ccf-5323-4377-a3ea-52c7bef1f4b8
+	java:S125Ê"<This block of commented-out lines of code should be removed.(ŸÅø·8½‹Ùäí1J$d2a51b2b-1f51-47e2-af62-30e4688622eb
+n	java:S106Ì"+Replace this use of System.out by a logger.(î÷³‹8½‹Ùäí1J$e46013d5-8d03-4fdf-bb50-67b4d91b0e19
+n	java:S106Ğ"+Replace this use of System.out by a logger.(ìÚêä8¾‹Ùäí1J$6bf887b4-d95f-4328-b06f-85ca7beba2a2
+	java:S125Î"<This block of commented-out lines of code should be removed.(©Ü¥‹8¾‹Ùäí1J$b5d881e3-c6f9-4d2d-8442-7ea7f91e0924

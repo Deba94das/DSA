@@ -1,0 +1,25 @@
+
+œ
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(–€°±8õ©½€î1J$2937568d-ad26-443d-aa52-fe18a96aefe4
+‚
+java:S1118	":Add a private constructor to hide the implicit public one.(ÜÙ¤ÿÿÿÿÿ8°¬½€î1J$1bbe26bb-83f4-495f-bf3e-9a6a189626d3
+
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Š¶»í8˜­½€î1J$66f81a21-ddee-42f3-8255-01bb640ec90e
+h
+java:S2440""%Remove this instantiation of "Stack".(Š¶û8ÍÌ€î1J$e75fb507-ffe1-4ab9-a34d-ce36a18d0571
+x
+java:S2209#"5Change this instance-reference to a static reference.(Â«“·8ğ­½€î1J$e5d6965b-9007-4964-b1cf-0d9c3c397e8b
+}
+java:S2209$"5Change this instance-reference to a static reference.(“»Ã’ÿÿÿÿÿ8ñ­½€î1J$b2b26403-4bf9-4fc3-9041-6c4811f3c97c
+}
+java:S2209%"5Change this instance-reference to a static reference.(İ˜ªˆÿÿÿÿÿ8ó­½€î1J$050e6c2a-fb5d-4404-8ad1-5f3b36a81770
+x
+java:S2209&"5Change this instance-reference to a static reference.(â²ò8ˆ‘Ì€î1J$9710b315-db15-4962-a8e1-d6e7a65ae664
+x
+java:S2209("5Change this instance-reference to a static reference.(ÎâÖ8˜‘Ì€î1J$5b49a29f-aaaf-4a8c-9c84-07c64cb7a27a
+r	java:S106)"+Replace this use of System.out by a logger.(ËôËÿÿÿÿÿ8›‘Ì€î1J$af643f12-04d3-4a5f-851b-74c5fece8a56
+}
+java:S2209)"5Change this instance-reference to a static reference.(ËôËÿÿÿÿÿ8ú­½€î1J$ff99cfe9-fb6d-40ba-99e8-3b2ad5483c7f
+x
+java:S2209*"5Change this instance-reference to a static reference.(Û‡ç‹8ú­½€î1J$2c66a675-88fd-48a7-a21f-4106a63f831f

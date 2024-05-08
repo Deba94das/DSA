@@ -1,0 +1,24 @@
+
+
+java:S11920"NDefine a constant instead of duplicating this literal "list is empty" 4 times.(ÒÎF8Ò‰Ùäí1J$7dc10b42-8aa1-493b-a869-d1130434d0f2
+€
+java:S4973š"<Strings and Boxed types should be compared using "equals()".(€ÖĞß8ì‰Ùäí1J$ba1f8800-4480-48e6-977a-fe309c283435
+k	java:S1060"+Replace this use of System.out by a logger.(ÒÎF8¬‹Ùäí1J$4a31aa9d-352c-477a-8cce-e051e7b5ff6e
+k	java:S1069"+Replace this use of System.out by a logger.(ÒÎF8­‹Ùäí1J$1f9b96f1-b4bd-4b3e-a055-919c82f34fca
+k	java:S106N"+Replace this use of System.out by a logger.(ÒÎF8®‹Ùäí1J$6f5fe4ec-7df7-495e-a55c-3095911b17bc
+m	java:S106S"+Replace this use of System.out by a logger.(ÑûæÁ8¯‹Ùäí1J$fbc5ef5b-432a-4888-859b-1a1ab0e15109
+r	java:S106V"+Replace this use of System.out by a logger.(¤ªÑÉÿÿÿÿÿ8¯‹Ùäí1J$d5a7b746-fc6e-4058-a76a-a68a9abf2e52
+k	java:S106Z"+Replace this use of System.out by a logger.(ÒÎF8°‹Ùäí1J$416da5de-7869-44a6-add2-76b841c280a8
+z
+java:S1117y"7Rename "size" which hides the field declared at line 6.(ŠİıŞ8´‹Ùäí1J$285346fb-9fd9-4968-aca1-b95dd331cbb2
+n	java:S106½"+Replace this use of System.out by a logger.(î÷³‹8¸‹Ùäí1J$6351aeb3-faaa-4dfb-9f25-d9a93a2039d4
+n	java:S106À"+Replace this use of System.out by a logger.(î÷³‹8¹‹Ùäí1J$9264f988-7c23-4ead-9cf1-598b3ba65b1e
+s	java:S106Á"+Replace this use of System.out by a logger.(‘ıÛ™şÿÿÿÿ8º‹Ùäí1J$be896944-21d5-4eea-a023-35c325cc8dcd
+	java:S125Â"<This block of commented-out lines of code should be removed.(øÆ©Û8¼‹Ùäí1J$75361206-a5aa-4219-acee-316e9d184707
+s	java:S106Ä"+Replace this use of System.out by a logger.(şú±Ÿûÿÿÿÿ8¼‹Ùäí1J$64272f42-cb70-46fc-b495-7cbbc1a0bcf9
+„	java:S125Ç"<This block of commented-out lines of code should be removed.(ÛÏ…úÿÿÿÿ8½‹Ùäí1J$8589fa75-7be7-43b9-8499-ec28cee43d76
+n	java:S106É"+Replace this use of System.out by a logger.(î÷³‹8½‹Ùäí1J$42559a17-93eb-436f-9439-b0df12f8049f
+	java:S125Ê"<This block of commented-out lines of code should be removed.(ŸÅø·8½‹Ùäí1J$3e3eda16-1a4a-432d-80cd-d21637681de0
+n	java:S106Ì"+Replace this use of System.out by a logger.(î÷³‹8½‹Ùäí1J$86a7e721-544a-4d00-8211-88706b5e4244
+n	java:S106Ğ"+Replace this use of System.out by a logger.(ìÚêä8¾‹Ùäí1J$19883890-48a9-47ce-8e3e-bd85a3ede4f1
+	java:S125Î"<This block of commented-out lines of code should be removed.(©Ü¥‹8¾‹Ùäí1J$f229a7c4-1f0b-46c0-adc7-d31787d8e41e

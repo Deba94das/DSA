@@ -1,0 +1,21 @@
+
+˜
+java:S1104"PMake head a static final constant or non-public and provide accessors if needed.(÷—ë úÿÿÿÿ8ÙèÁÿí1J$6fb19199-6e2a-491b-9675-4d05a3241bc3
+r
+java:S1444"*Make this "public static head" field final(÷—ë úÿÿÿÿ8àèÁÿí1J$0122a774-fa9e-40bf-a502-6eee5b271137
+x
+java:S22098"5Change this instance-reference to a static reference.(Â«“·8—ìÁÿí1J$b2891f59-c2c7-4986-84e1-54d215f8c61a
+}
+java:S22099"5Change this instance-reference to a static reference.(“»Ã’ÿÿÿÿÿ8˜ìÁÿí1J$dc7ff271-55fc-4c0a-8fd0-2ab23da1adaa
+}
+java:S2209:"5Change this instance-reference to a static reference.(İ˜ªˆÿÿÿÿÿ8™ìÁÿí1J$4c2a8d12-ceed-43fb-9435-63d77c650fdc
+x
+java:S2209;"5Change this instance-reference to a static reference.(â²ò8™ìÁÿí1J$0af2bc68-dee1-447e-83e4-92faadee6031
+m	java:S106<"+Replace this use of System.out by a logger.(Û×ı‹8ìÁÿí1J$bfc806e9-9dd1-4fee-ac54-8ade41f7f842
+x
+java:S2209="5Change this instance-reference to a static reference.(ÎâÖ8¡ìÁÿí1J$154b476b-079b-48af-9e21-5a8512507d52
+m	java:S106>"+Replace this use of System.out by a logger.(Î¬Áç8¢ìÁÿí1J$8b798b5a-d802-4ee8-87e5-c7ebd6c51fd4
+x
+java:S2209>"5Change this instance-reference to a static reference.(Î¬Áç8¢ìÁÿí1J$f6604306-ff02-4452-bece-28aedf614b01
+x
+java:S2209?"5Change this instance-reference to a static reference.(Û‡ç‹8£ìÁÿí1J$051b748d-fdbe-4428-bfb5-29874235a5f4
